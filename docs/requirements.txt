@@ -10,3 +10,4 @@ pytablewriter>=0.56
 sphinx>=1.7
 sphinx-copybutton
 sphinx-jsonschema
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
